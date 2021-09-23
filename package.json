@@ -53,7 +53,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@vuepress/theme-default": "^1.5.4",
+		"@vuepress/theme-default": "^1.8.2",
 		"vue-server-renderer": "^2.6.12"
 	}
 }
