@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^9.0.0",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.5"
   },
   "gitHead": "b925c4fe80f493edd89c0c39a70e6eda3b97d915"
 }
