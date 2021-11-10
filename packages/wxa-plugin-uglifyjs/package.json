@@ -12,7 +12,7 @@
   "author": "iveswen",
   "license": "MIT",
   "dependencies": {
-    "uglify-js": "^3.3.8"
+    "uglify-js": "^3.14.3"
   },
   "publishConfig": {
     "access": "public"
