@@ -26,7 +26,7 @@
     "homepage": "https://wxajs.github.io/wxa/",
     "dependencies": {
         "@wxa/core": "latest",
-        "deep-object-diff": "^1.1.0",
+        "deep-object-diff": "^1.1.9",
         "flat": "^4.1.0",
         "redux": "^3.7.2",
         "shallowequal": "^1.1.0"
