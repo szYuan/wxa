@@ -41,7 +41,7 @@
         "webpack-cli": "^3.3.12"
     },
     "dependencies": {
-        "deep-object-diff": "^1.1.0",
+        "deep-object-diff": "^1.1.9",
         "lodash": "^4.17.20"
     },
     "lint-staged": {
