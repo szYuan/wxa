@@ -60,7 +60,7 @@
     "htmlparser2": "^3.10.1",
     "inquirer": "^6.2.0",
     "js-base64": "^2.4.0",
-    "json5": "^2.1.1",
+    "json5": "^2.2.2",
     "mkdirp": "^0.5.1",
     "mockjs": "^1.1.0",
     "node-notifier": "^5.2.1",
