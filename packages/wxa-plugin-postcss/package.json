@@ -11,7 +11,7 @@
   "author": "iveswen",
   "license": "MIT",
   "dependencies": {
-    "postcss": "^6.0.22"
+    "postcss": "^8.4.31"
   },
   "publishConfig": {
     "access": "public"
