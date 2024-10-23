@@ -27,7 +27,7 @@
         "babel-preset-env": "^1.6.1"
     },
     "dependencies": {
-        "stylus": "^0.54.5"
+        "stylus": "^0.64.0"
     },
     "publishConfig": {
         "access": "public"
